@@ -1,0 +1,17 @@
+D:\Demo\UserService\AggregrateService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Demo\UserService\AggregrateService\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Demo\UserService\AggregrateService\bin\Debug\netcoreapp2.2\OcelotConfiguration.json
+D:\Demo\UserService\AggregrateService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Demo\UserService\AggregrateService\bin\Debug\netcoreapp2.2\AggregrateService.deps.json
+D:\Demo\UserService\AggregrateService\bin\Debug\netcoreapp2.2\AggregrateService.runtimeconfig.json
+D:\Demo\UserService\AggregrateService\bin\Debug\netcoreapp2.2\AggregrateService.runtimeconfig.dev.json
+D:\Demo\UserService\AggregrateService\bin\Debug\netcoreapp2.2\AggregrateService.dll
+D:\Demo\UserService\AggregrateService\bin\Debug\netcoreapp2.2\AggregrateService.pdb
+D:\Demo\UserService\AggregrateService\obj\Debug\netcoreapp2.2\AggregrateService.csprojAssemblyReference.cache
+D:\Demo\UserService\AggregrateService\obj\Debug\netcoreapp2.2\AggregrateService.RazorAssemblyInfo.cache
+D:\Demo\UserService\AggregrateService\obj\Debug\netcoreapp2.2\AggregrateService.RazorAssemblyInfo.cs
+D:\Demo\UserService\AggregrateService\obj\Debug\netcoreapp2.2\AggregrateService.AssemblyInfoInputs.cache
+D:\Demo\UserService\AggregrateService\obj\Debug\netcoreapp2.2\AggregrateService.AssemblyInfo.cs
+D:\Demo\UserService\AggregrateService\obj\Debug\netcoreapp2.2\AggregrateService.RazorTargetAssemblyInfo.cache
+D:\Demo\UserService\AggregrateService\obj\Debug\netcoreapp2.2\AggregrateService.dll
+D:\Demo\UserService\AggregrateService\obj\Debug\netcoreapp2.2\AggregrateService.pdb

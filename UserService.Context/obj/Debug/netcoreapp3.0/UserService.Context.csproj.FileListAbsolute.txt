@@ -1,0 +1,11 @@
+D:\Demo\UserService\UserService.Context\bin\Debug\netcoreapp3.0\UserService.Context.deps.json
+D:\Demo\UserService\UserService.Context\bin\Debug\netcoreapp3.0\UserService.Context.dll
+D:\Demo\UserService\UserService.Context\bin\Debug\netcoreapp3.0\UserService.Context.pdb
+D:\Demo\UserService\UserService.Context\bin\Debug\netcoreapp3.0\UserService.Model.dll
+D:\Demo\UserService\UserService.Context\bin\Debug\netcoreapp3.0\UserService.Model.pdb
+D:\Demo\UserService\UserService.Context\obj\Debug\netcoreapp3.0\UserService.Context.csprojAssemblyReference.cache
+D:\Demo\UserService\UserService.Context\obj\Debug\netcoreapp3.0\UserService.Context.AssemblyInfoInputs.cache
+D:\Demo\UserService\UserService.Context\obj\Debug\netcoreapp3.0\UserService.Context.AssemblyInfo.cs
+D:\Demo\UserService\UserService.Context\obj\Debug\netcoreapp3.0\UserService.Context.csproj.CopyComplete
+D:\Demo\UserService\UserService.Context\obj\Debug\netcoreapp3.0\UserService.Context.dll
+D:\Demo\UserService\UserService.Context\obj\Debug\netcoreapp3.0\UserService.Context.pdb
